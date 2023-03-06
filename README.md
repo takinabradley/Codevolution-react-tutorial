@@ -28,7 +28,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Component Lifecycle Methods
 - [x] Component Mounting Lifecycle Methods
 - [x] Component Updating Lifecycle Methods
-- [ ] Fragments
+- [x] Fragments
 - [ ] Pure Components
 - [ ] Memo
 - [ ] Refs
