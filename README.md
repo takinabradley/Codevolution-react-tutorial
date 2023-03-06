@@ -18,7 +18,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Destructuring Props and State
 - [x] Event Handling
 - [x] Binding Event Handlers
-- [ ] Methods as Props
+- [x] Methods as Props
 - [ ] Conditional Rendering
 - [ ] List Rendering
 - [ ] Lists and Keys
