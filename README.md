@@ -21,7 +21,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Methods as Props
 - [x] Conditional Rendering
 - [x] List Rendering
-- [ ] Lists and Keys
+- [x] Lists and Keys
 - [ ] Index as Key Anti-Pattern
 - [ ] Styling and CSS Basics
 - [ ] Basics of Form Handling
