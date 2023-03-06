@@ -1,6 +1,7 @@
 import React from "react"
 import Person from "./Person"
 export default function NameList() {
+  const names = ["Bruce", "Clark", "Diana", "Bruce"]
   const people = [
     {
       id: 1,
@@ -26,5 +27,9 @@ export default function NameList() {
     <Person personData={person} key={person.id} />
   ))
 
-  return <div>{personList}</div>
+  const nameList = names.map((name, index) => (
+    <h2 key={index}>{index + " " + name}</h2>
+  ))
+
+  return <div>{nameList}</div>
 }

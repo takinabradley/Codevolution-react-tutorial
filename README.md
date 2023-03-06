@@ -22,7 +22,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Conditional Rendering
 - [x] List Rendering
 - [x] Lists and Keys
-- [ ] Index as Key Anti-Pattern
+- [x] Index as Key Anti-Pattern
 - [ ] Styling and CSS Basics
 - [ ] Basics of Form Handling
 - [ ] Component Lifecycle Methods
