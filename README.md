@@ -24,7 +24,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Lists and Keys
 - [x] Index as Key Anti-Pattern
 - [x] Styling and CSS Basics
-- [ ] Basics of Form Handling
+- [x] Basics of Form Handling
 - [ ] Component Lifecycle Methods
 - [ ] Component Mounting Lifecycle Methods
 - [ ] Component Updating Lifecycle Methods
