@@ -7,7 +7,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Introduction
 - [x] Hello World
 - [x] Folder Structure
-- [ ] Components
+- [x] Components
 - [ ] Functional Components
 - [ ] Class Components
 - [ ] Hooks Update
