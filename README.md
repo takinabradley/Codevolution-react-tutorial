@@ -11,7 +11,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Functional Components
 - [x] Class Components
 - [x] Hooks Update
-- [ ] JSX
+- [x] JSX
 - [ ] Props
 - [ ] State
 - [ ] setState
