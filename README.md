@@ -4,7 +4,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 
 # React JS
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Hello World
 - [ ] Folder Structure
 - [ ] Components
