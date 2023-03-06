@@ -13,7 +13,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Hooks Update
 - [x] JSX
 - [x] Props
-- [ ] State
+- [x] State
 - [ ] setState
 - [ ] Destructuring Props and State
 - [ ] Event Handling
