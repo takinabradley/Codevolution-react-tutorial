@@ -30,7 +30,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Component Updating Lifecycle Methods
 - [x] Fragments
 - [x] Pure Components
-- [ ] Memo
+- [x] Memo
 - [ ] Refs
 - [ ] Refs With Class Components
 - [ ] Fowarding Refs

@@ -1,7 +1,10 @@
 import React from "react"
+import MemoComponent from "./MemoComponent"
 import PureComponent from "./PureComponent"
 import RegularComponent from "./RegularComponent"
-export default class ParentComp extends React.PureComponent {
+const MemoizedComponent = React.memo(MemoComponent)
+
+export default class ParentComp extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
@@ -20,8 +23,9 @@ export default class ParentComp extends React.PureComponent {
     return (
       <div>
         Parent Component
-        <RegularComponent name={this.state.name} />
-        <PureComponent name={this.state.name} />
+        {/* <RegularComponent name={this.state.name} />
+        <PureComponent name={this.state.name} /> */}
+        <MemoizedComponent name={this.state.name} />
       </div>
     )
   }
