@@ -12,7 +12,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Class Components
 - [x] Hooks Update
 - [x] JSX
-- [ ] Props
+- [x] Props
 - [ ] State
 - [ ] setState
 - [ ] Destructuring Props and State
