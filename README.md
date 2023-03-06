@@ -19,7 +19,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Event Handling
 - [x] Binding Event Handlers
 - [x] Methods as Props
-- [ ] Conditional Rendering
+- [x] Conditional Rendering
 - [ ] List Rendering
 - [ ] Lists and Keys
 - [ ] Index as Key Anti-Pattern
