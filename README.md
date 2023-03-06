@@ -27,7 +27,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Basics of Form Handling
 - [x] Component Lifecycle Methods
 - [x] Component Mounting Lifecycle Methods
-- [ ] Component Updating Lifecycle Methods
+- [x] Component Updating Lifecycle Methods
 - [ ] Fragments
 - [ ] Pure Components
 - [ ] Memo
