@@ -2,7 +2,7 @@
 
 This repo is dedicated to my progress following along in Codevolution's React tutorial
 
-# React JS
+## React JS
 
 - [x] Introduction
 - [x] Hello World
