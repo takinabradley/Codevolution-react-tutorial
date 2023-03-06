@@ -14,7 +14,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] JSX
 - [x] Props
 - [x] State
-- [ ] setState
+- [x] setState
 - [ ] Destructuring Props and State
 - [ ] Event Handling
 - [ ] Binding Event Handlers
