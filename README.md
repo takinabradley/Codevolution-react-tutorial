@@ -31,7 +31,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Fragments
 - [x] Pure Components
 - [x] Memo
-- [ ] Refs
+- [x] Refs
 - [ ] Refs With Class Components
 - [ ] Fowarding Refs
 - [ ] Portals
