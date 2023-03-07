@@ -33,7 +33,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Memo
 - [x] Refs
 - [x] Refs With Class Components
-- [ ] Fowarding Refs
+- [x] Fowarding Refs
 - [ ] Portals
 - [ ] Error Boundry
 - [ ] Higher Order Components 1
