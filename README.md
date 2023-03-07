@@ -32,7 +32,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Pure Components
 - [x] Memo
 - [x] Refs
-- [ ] Refs With Class Components
+- [x] Refs With Class Components
 - [ ] Fowarding Refs
 - [ ] Portals
 - [ ] Error Boundry
