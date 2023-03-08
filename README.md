@@ -38,7 +38,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Error Boundry
 - [x] Higher Order Components 1
 - [x] Higher Order Components 2
-- [ ] Higher Order Components 3
+- [x] Higher Order Components 3
 - [ ] Render Props 1
 - [ ] Render Props 2
 - [ ] Context 1
