@@ -36,7 +36,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Fowarding Refs
 - [x] Portals
 - [x] Error Boundry
-- [ ] Higher Order Components 1
+- [x] Higher Order Components 1
 - [ ] Higher Order Components 2
 - [ ] Higher Order Components 3
 - [ ] Render Props 1
