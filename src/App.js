@@ -1,13 +1,18 @@
 import "./App.css"
-import FocusInput from "./components/FocusInput"
-import FRParentInput from "./components/FRParentInput"
-import PortalDemo from "./components/PortalDemo"
-import RefsDemo from "./components/RefsDemo"
-
+import Hero from "./components/Hero"
+import ErrorBoundry from "./components/ErrorBoundry"
 function App() {
   return (
     <div className="App">
-      <PortalDemo />
+      <ErrorBoundry>
+        <Hero heroName={"Batman"} />
+      </ErrorBoundry>
+      <ErrorBoundry>
+        <Hero heroName={"Superman"} />
+      </ErrorBoundry>
+      <ErrorBoundry>
+        <Hero heroName={"Joker"} />
+      </ErrorBoundry>
     </div>
   )
 }
