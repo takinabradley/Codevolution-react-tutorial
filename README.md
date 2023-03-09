@@ -40,7 +40,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Higher Order Components 2
 - [x] Higher Order Components 3
 - [x] Render Props 1
-- [ ] Render Props 2
+- [x] Render Props 2
 - [ ] Context 1
 - [ ] Context 2
 - [ ] Context 3
