@@ -1,11 +1,13 @@
 import "./App.css"
-import ClickCounter from "./components/ClickCounter"
-import HoverCounter from "./components/HoverCounter"
+import ClickCounter2 from "./components/ClickCounter2"
+import HoverCounter2 from "./components/HoverCounter2"
+import User from "./components/User"
 function App() {
   return (
     <div className="App">
-      <ClickCounter name="Brad" />
-      <HoverCounter />
+      <ClickCounter2 />
+      <HoverCounter2 />
+      <User render={(isLoggedIn) => (isLoggedIn ? "Brad" : "Guest")} />
     </div>
   )
 }
