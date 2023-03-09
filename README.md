@@ -43,7 +43,7 @@ This repo is dedicated to my progress following along in Codevolution's React tu
 - [x] Render Props 2
 - [x] Context 1
 - [x] Context 2
-- [ ] Context 3
+- [x] Context 3
 - [ ] HTTP and React
 - [ ] HTTP GET Request
 - [ ] HTTP Post Request
