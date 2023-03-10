@@ -1,6 +1,6 @@
 # Codevolution React Tutorial
 
-This repo is dedicated to my progress following along in Codevolution's React tutorial
+This repo is dedicated to my progress following along in [Codevolution's React tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 
 ## React JS
 
