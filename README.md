@@ -60,7 +60,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] Conditionally run effects
 - [x] Run effects only once
 - [x] useEffect with cleanup
-- [ ] useEffect with Incorrect dependency
+- [x] useEffect with Incorrect dependency
 - [ ] Fetching data with useEffect 1
 - [ ] Fetching data with useEffect 2
 - [ ] Fetching data with useEffect 3
