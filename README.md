@@ -58,7 +58,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useEffect Hook
 - [x] useEffect after render
 - [x] Conditionally run effects
-- [ ] Run effects only once
+- [x] Run effects only once
 - [ ] useEffect with cleanup
 - [ ] useEffect with Incorrect dependency
 - [ ] Fetching data with useEffect 1
