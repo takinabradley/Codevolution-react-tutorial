@@ -7,7 +7,7 @@ import HookCounter4 from "./hook-components/HookCounter4"
 function App() {
   return (
     <div className="App">
-      <HookCounter4 />
+      <HookCounter />
     </div>
   )
 }
