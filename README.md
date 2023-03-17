@@ -47,3 +47,38 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] HTTP and React
 - [x] HTTP GET Request
 - [x] HTTP Post Request
+
+## React Hooks
+
+- [ ] Introduction
+- [ ] useState Hook
+- [ ] useState with previous state
+- [ ] useState with object
+- [ ] useState with array
+- [ ] useEffect Hook
+- [ ] useEffect after render
+- [ ] Conditionally run effects
+- [ ] Run effects only once
+- [ ] useEffect with cleanup
+- [ ] useEffect with Incorrect dependency
+- [ ] Fetching data with useEffect 1
+- [ ] Fetching data with useEffect 2
+- [ ] Fetching data with useEffect 3
+- [ ] useContext hook 1
+- [ ] useContext hook 2
+- [ ] useContext hook 3
+- [ ] useReducer hook
+- [ ] useReducer (simple state and action)
+- [ ] useReducer (complex state and action)
+- [ ] multiple useReducers
+- [ ] useReducer with useContext
+- [ ] Fetching data with useReducer 1
+- [ ] Fetching data with useReducer 2
+- [ ] useState vs useReducer
+- [ ] useCallback hook
+- [ ] useMemo hook
+- [ ] useRef hook 1
+- [ ] useRef hook 2
+- [ ] custom hooks
+- [ ] useDocumentTitle Custom hook
+- [ ] useInput custom hook
