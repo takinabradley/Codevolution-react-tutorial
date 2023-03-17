@@ -45,5 +45,5 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] Context 2
 - [x] Context 3
 - [x] HTTP and React
-- [ ] HTTP GET Request
+- [x] HTTP GET Request
 - [ ] HTTP Post Request
