@@ -55,7 +55,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useState with previous state
 - [x] useState with object
 - [x] useState with array
-- [ ] useEffect Hook
+- [x] useEffect Hook
 - [ ] useEffect after render
 - [ ] Conditionally run effects
 - [ ] Run effects only once
