@@ -51,7 +51,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 ## React Hooks
 
 - [x] Introduction
-- [ ] useState Hook
+- [x] useState Hook
 - [ ] useState with previous state
 - [ ] useState with object
 - [ ] useState with array

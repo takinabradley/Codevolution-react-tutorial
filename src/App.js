@@ -1,13 +1,11 @@
 import "./App.css"
-import ComponentC from "./components/ComponentC"
-import UserContext from "./components/userContext"
-import PostForm from "./http-components/PostForm"
-import PostList from "./http-components/PostList"
+import HookCounter from "./hook-components/HookCounter"
+import HookCounter2 from "./hook-components/HookCounter2"
 
 function App() {
   return (
     <div className="App">
-      <PostForm />
+      <HookCounter />
     </div>
   )
 }
