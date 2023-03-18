@@ -67,7 +67,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useContext hook 1
 - [x] useContext hook 2
 - [x] useContext hook 3
-- [ ] useReducer hook
+- [x] useReducer hook
 - [ ] useReducer (simple state and action)
 - [ ] useReducer (complex state and action)
 - [ ] multiple useReducers
