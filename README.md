@@ -62,8 +62,8 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useEffect with cleanup
 - [x] useEffect with Incorrect dependency
 - [x] Fetching data with useEffect 1
-- [ ] Fetching data with useEffect 2
-- [ ] Fetching data with useEffect 3
+- [x] Fetching data with useEffect 2
+- [x] Fetching data with useEffect 3
 - [ ] useContext hook 1
 - [ ] useContext hook 2
 - [ ] useContext hook 3
