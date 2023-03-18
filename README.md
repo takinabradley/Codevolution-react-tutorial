@@ -61,7 +61,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] Run effects only once
 - [x] useEffect with cleanup
 - [x] useEffect with Incorrect dependency
-- [ ] Fetching data with useEffect 1
+- [x] Fetching data with useEffect 1
 - [ ] Fetching data with useEffect 2
 - [ ] Fetching data with useEffect 3
 - [ ] useContext hook 1
