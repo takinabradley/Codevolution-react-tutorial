@@ -65,8 +65,8 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] Fetching data with useEffect 2
 - [x] Fetching data with useEffect 3
 - [x] useContext hook 1
-- [ ] useContext hook 2
-- [ ] useContext hook 3
+- [x] useContext hook 2
+- [x] useContext hook 3
 - [ ] useReducer hook
 - [ ] useReducer (simple state and action)
 - [ ] useReducer (complex state and action)
