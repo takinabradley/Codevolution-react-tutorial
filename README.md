@@ -78,7 +78,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useCallback hook
 - [x] useMemo hook
 - [x] useRef hook 1
-- [ ] useRef hook 2
+- [x] useRef hook 2
 - [ ] custom hooks
 - [ ] useDocumentTitle Custom hook
 - [ ] useInput custom hook
