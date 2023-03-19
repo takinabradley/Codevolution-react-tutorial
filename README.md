@@ -77,7 +77,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useState vs useReducer
 - [x] useCallback hook
 - [x] useMemo hook
-- [ ] useRef hook 1
+- [x] useRef hook 1
 - [ ] useRef hook 2
 - [ ] custom hooks
 - [ ] useDocumentTitle Custom hook
