@@ -80,5 +80,5 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useRef hook 1
 - [x] useRef hook 2
 - [x] custom hooks
-- [ ] useDocumentTitle Custom hook
+- [x] useDocumentTitle Custom hook
 - [ ] useInput custom hook
