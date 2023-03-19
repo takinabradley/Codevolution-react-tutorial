@@ -74,7 +74,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useReducer with useContext
 - [x] Fetching data with useReducer 1
 - [x] Fetching data with useReducer 2
-- [ ] useState vs useReducer
+- [x] useState vs useReducer
 - [ ] useCallback hook
 - [ ] useMemo hook
 - [ ] useRef hook 1
