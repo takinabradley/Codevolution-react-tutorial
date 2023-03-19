@@ -6,6 +6,10 @@ export default function Counter() {
   const incrementOne = () => setCounterOne((prev) => prev + 1)
   const incrementTwo = () => setCounterTwo((prev) => prev + 2)
 
+  // usememo is good for caching the result of the slow isEven function
+
+  // usecallback is good for caching a function reference that might
+  // unneccessarily change
   const isEven = useMemo(() => {
     let i = 0
     while (i < 2000000000) i++
