@@ -71,7 +71,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] useReducer (simple state and action)
 - [x] useReducer (complex state and action)
 - [x] multiple useReducers
-- [ ] useReducer with useContext
+- [x] useReducer with useContext
 - [ ] Fetching data with useReducer 1
 - [ ] Fetching data with useReducer 2
 - [ ] useState vs useReducer
