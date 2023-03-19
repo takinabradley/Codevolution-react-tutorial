@@ -76,7 +76,7 @@ This repo is dedicated to my progress following along in [Codevolution's React t
 - [x] Fetching data with useReducer 2
 - [x] useState vs useReducer
 - [x] useCallback hook
-- [ ] useMemo hook
+- [x] useMemo hook
 - [ ] useRef hook 1
 - [ ] useRef hook 2
 - [ ] custom hooks
